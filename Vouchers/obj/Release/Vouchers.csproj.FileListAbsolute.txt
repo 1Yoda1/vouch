@@ -1,0 +1,12 @@
+F:\2. Work\1. C#\Vouchers\bin\Release\Vouchers.exe.config
+F:\2. Work\1. C#\Vouchers\bin\Release\Vouchers.exe
+F:\2. Work\1. C#\Vouchers\bin\Release\Vouchers.pdb
+F:\2. Work\1. C#\Vouchers\obj\Release\Vouchers.csprojAssemblyReference.cache
+F:\2. Work\1. C#\Vouchers\obj\Release\Vouchers.Form1.resources
+F:\2. Work\1. C#\Vouchers\obj\Release\Vouchers.Form2.resources
+F:\2. Work\1. C#\Vouchers\obj\Release\Vouchers.Form3.resources
+F:\2. Work\1. C#\Vouchers\obj\Release\Vouchers.Properties.Resources.resources
+F:\2. Work\1. C#\Vouchers\obj\Release\Vouchers.csproj.GenerateResource.cache
+F:\2. Work\1. C#\Vouchers\obj\Release\Vouchers.csproj.CoreCompileInputs.cache
+F:\2. Work\1. C#\Vouchers\obj\Release\Vouchers.exe
+F:\2. Work\1. C#\Vouchers\obj\Release\Vouchers.pdb

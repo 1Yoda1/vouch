@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<vouchers>
+  <note date="16.11.2020">
+    <remainder>20</remainder>
+    <probeg>112</probeg>
+    <prihod>50</prihod>
+    <mileage>53077</mileage>
+    <consumption>17</consumption>
+  </note>
+  <note date="17.11.2020">
+    <remainder>53</remainder>
+    <probeg>88</probeg>
+    <prihod>0</prihod>
+    <mileage>53165</mileage>
+    <consumption>13</consumption>
+  </note>
+  <note date="18.11.2020">
+    <remainder>40</remainder>
+    <probeg>92</probeg>
+    <prihod>0</prihod>
+    <mileage>53257</mileage>
+    <consumption>14</consumption>
+  </note>
+  <note date="19.11.2020">
+    <remainder>26</remainder>
+    <probeg>76</probeg>
+    <prihod>0</prihod>
+    <mileage>53333</mileage>
+    <consumption>11</consumption>
+  </note>
+  <note date="20.11.2020">
+    <remainder>15</remainder>
+    <probeg>118</probeg>
+    <prihod>40</prihod>
+    <mileage>53451</mileage>
+    <consumption>18</consumption>
+  </note>
+  <note date="23.11.2020">
+    <remainder>37</remainder>
+    <probeg>128</probeg>
+    <prihod>0</prihod>
+    <mileage>53579</mileage>
+    <consumption>19</consumption>
+  </note>
+  <note date="24.11.2020">
+    <remainder>18</remainder>
+    <probeg>81</probeg>
+    <prihod>0</prihod>
+    <mileage>53660</mileage>
+    <consumption>12</consumption>
+  </note>
+  <note date="25.11.2020">
+    <remainder>6</remainder>
+    <probeg>85</probeg>
+    <prihod>45</prihod>
+    <mileage>53745</mileage>
+    <consumption>13</consumption>
+  </note>
+  <note date="26.11.2020">
+    <remainder>38</remainder>
+    <probeg>49</probeg>
+    <prihod>0</prihod>
+    <mileage>53794</mileage>
+    <consumption>7</consumption>
+  </note>
+  <note date="27.11.2020">
+    <remainder>31</remainder>
+    <probeg>32</probeg>
+    <prihod>0</prihod>
+    <mileage>53826</mileage>
+    <consumption>5</consumption>
+  </note>
+  <note date="30.11.2020">
+    <remainder>26</remainder>
+    <probeg>114</probeg>
+    <prihod>0</prihod>
+    <mileage>53940</mileage>
+    <consumption>17</consumption>
+  </note>
+  <note date="01.12.2020">
+    <remainder>9</remainder>
+    <probeg>38</probeg>
+    <prihod>0</prihod>
+    <mileage>53978</mileage>
+    <consumption>5</consumption>
+  </note>
+  <note date="01.04.2021">
+    <remainder>4</remainder>
+    <probeg>12</probeg>
+    <prihod>12</prihod>
+    <mileage>53990</mileage>
+    <consumption>2</consumption>
+  </note>
+</vouchers>
